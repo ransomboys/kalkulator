@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1579933301 source:d:\code block\learn\matematika\main.cpp
+	<iostream>
+
+1579937097 source:d:\code block\learn\matematika\parkir.cpp
+	<iostream>
+	<iomanip>
+
